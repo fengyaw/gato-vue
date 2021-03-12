@@ -1,0 +1,10 @@
+{
+  "name": "generator-gato-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fengyw",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.1.0"
+  }
+}
