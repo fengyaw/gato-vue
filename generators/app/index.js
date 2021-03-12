@@ -17,13 +17,12 @@ module.exports = class extends Generator {
 
   writing() {
     // 把每一个文件都通过模板转换到目标路径
-
+	  // '.gitignore',
     const templates = [
       '.babelrc',
       '.editorconfig',
       '.eslintignore',
       '.eslintrc.js',
-      '.gitignore',
       '.postcssrc.js',
       'build/build.js',
       'build/check-versions.js',
